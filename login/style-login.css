@@ -27,10 +27,10 @@ font-family: 'Numans', sans-serif;
     background: blueviolet;
 }
 .card{
-height: 400px;
+
 margin-top: auto;
 margin-bottom: auto;
-width: 400px;
+
 border: 1px outset #6575ac;
 border-radius: 10px;
 background-color: rgba(0,0,0,0.5) !important;
